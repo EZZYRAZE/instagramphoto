@@ -27,6 +27,16 @@ img {
     justify-content: space-between;
 }
 
+.heading-left{
+    width: 27%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.html5-icon{
+    margin-top: 2px;
+}
+
 .comments-left{
     width: 20%;
     display: flex;
