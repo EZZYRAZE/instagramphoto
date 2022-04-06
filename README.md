@@ -1,3 +1,3 @@
 # instagramphoto
 
-this is instagram photo feed project.
+this is instagram post feed project.
