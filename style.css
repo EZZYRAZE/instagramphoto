@@ -5,27 +5,28 @@
 }
 
 body {
-    background: grey;
+    background: black;
 }
 
 .body-container {
-    max-width: 400px;
+    max-width: 425px;
     margin: 0 auto;
     padding-block: 20px;
+    padding-top: 10px;
     background-color: white;
 }
 
 img {
-    width: 400px;
+    width: 425px;
     height: 275px;
 }
 
 .heading {
-    background: burlywood;
-    height: 30px;
+    padding: 0px 10px 10px 10px;
     display: flex;
     justify-content: space-between;
 }
+
 .comments-left{
     width: 20%;
     display: flex;
@@ -37,8 +38,9 @@ img {
     padding: 10px 10px 0px 10px;
    
 }
-
-.maincoment {
-    width: 300px;
-    text-align: center;
+.likeby{
+    padding-left: 10px;
+}
+.maincomment {
+   padding-left: 10px;
 }
