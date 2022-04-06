@@ -27,13 +27,15 @@ img {
     justify-content: space-between;
 }
 .comments-left{
+    width: 20%;
     display: flex;
+    justify-content: space-between;
 }
 .comments {
     display: flex;
     justify-content: space-between;
-    background: wheat;
-    height: 30px;
+    padding: 10px 10px 0px 10px;
+   
 }
 
 .maincoment {
