@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: o;
+    padding: 0;
+}
+
+body {
+    background: grey;
+}
+
+.body-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding-block: 20px;
+    background-color: white;
+}
+
+img {
+    width: 400px;
+    height: 275px;
+}
+
+.heading {
+    display: flex;
+}
+
+.comments {
+    background: wheat;
+    height: 30px;
+}
+
+.maincoment {
+    width: 300px;
+    text-align: center;
+}
