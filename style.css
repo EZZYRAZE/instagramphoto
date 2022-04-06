@@ -21,10 +21,17 @@ img {
 }
 
 .heading {
+    background: burlywood;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.comments-left{
     display: flex;
 }
-
 .comments {
+    display: flex;
+    justify-content: space-between;
     background: wheat;
     height: 30px;
 }
